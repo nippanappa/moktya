@@ -58,18 +58,27 @@
 
 
 <div class="video-container">
-  <video loop autoplay>
+  <video loop autoplay id="video">
     <source src="tykistonew3.mp4" type="video/mp4" />
   </video>
 </div>
-
-
 
   <script  src="js/index.js"></script>
 <h2 class="kopyrikt"><font color="#fc2a6d">Laatusivut tarjoaa Akseli</font></h2>
 
 <h3><font color="#fff">Akseli 9D, Kasper 9B, Santeri 9C, Kaapo 9A</font></h3>
-
+<div id="loadblock">
+	<h1>EPIC SITE LOADING...</h1>
+</div>
+<script >
+	vid = document.getElementById("video");
+	console.log(vid);
+	vid.addEventListener('loadeddata',function() {
+	document.getElementById('loadblock').style.display = "none";
+	console.log('epic');
+},false);
+video.load();
+</script>
 </body>
 
 </html>
