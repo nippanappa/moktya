@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en" >
+
+<head>
+  <meta charset="UTF-8">
+  <title>Sodan alku</title>
+  
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
+
+  
+      <link rel="stylesheet" href="css/tekstit.css">
+
+  
+</head>
+
+<body>
+
+  <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,300italic,400italic,700italic|Oxygen:400,700,300' rel='stylesheet' type='text/css'>
+
+<main id="main" role="main">
+  <aside class="sidebar">
+    <section class="sidebar-content">
+      <h2 class="post-title">Sodan alku</h2>
+      <section class="meta">Sodan alku</section>
+      <section class="comments">Kommentit</section>
+      <section class="comments-content">
+        No comments yet
+      </section>
+    </section>
+  </aside>
+  <aside class="sticky">
+    <h2 class="post-title">Sodan alku</h2>
+
+  </aside>
+  <article class="post js-post">
+    <section class="post-content" id="js-post-content">
+      <p>Lorem ipsum dolor sit amet, qui es in caelis sanctificetur nomen tuum, adveniat regnum tuum. Fiat voluntas tua, sicut in caelo et in terra.</p>
+
+      <p>Olen viimeaikoina käyttänyt Atomia tekstieditorina. Ennen sitä käytin Sublime Text -editoria vuoden. Molemmat ovat hyviä ja varteenotettavia tekstieditoreja..</p>
+
+      <h3 id="thetransfer">Muutos</h3>
+
+      <p>Mitä tiesin Vimistä ennen kuin aloin käyttämään sitä oli luokkaa <em>"siellä on paljon erilaisia näppäinyhdistelmiä"</em> ja <em>"Minun tulee painaa I-kirjainta päästäkseni kirjoittamaan."</em>. Olin käyttänyt Vimiä hieman sivujen tekoon ennenkin, joten tiesin miten päästä käyttämään ohjelmaa ja miten päästä pois, mutta tietoni oli hyvin rajoittunutta.</p>
+
+      <p>Päätin siirtyä käyttämään Vimiä täysivaltaisesti 17. tammikuuta, ja olen käyttänyt sitä siitä lähtien. Olen oppinut paljon uutta Vimistä. Motivoidakseni itseäni käyttämään Vimiä päätin käyttää Vimiä päätekstieditorinani kaikissa koulutöissäni ynnä muissa samankaltaisissa projekteissa.</p>
+
+      <h3 id="theneverendingvimrc">Loputon koodi<code>.vimrc</code></h3>
+
+      <p>Kuten Sublime Text on tylsä ja "ohut", on Vimin <code>vimrc</code>-tiedosto. <code>Vimrc</code>-tiedosto on tiedosto kaikille sinun mukautetuille näppäinyhdistelmillesi ja keybindeille. Siellä on myös monia asetuksia säädettäväksi..</p>
+
+      <p>Luin jostain StackOverFlowsta, ettei sinun kannattaisi vain kopioida jonkun tekemää <code>vimrc</code>-koodia ja mennä sillä. Niin kuin jokainen ihminen on erilainen, on jokainen  <code>vimrc</code>-koodikin. Otan vain inspiraatiota muiden <code>vimrc</code>-tiedostoista, mutta ensin googlasin asian tarkkaan tai käytin komentoa <code>:help</code> nähdäkseni mitä jokin asetus tekee.</p>
+
+      <p>Mitä olen tajunnut tässä Vim-käyttöni aikana on se, ettei ole olemassa täydellistä <code>vimrc</code>-tiedostoa. Päivitän omaa <code>vimrc</code>-tiedostoani melkein joka päivä.</p>
+
+      <h3 id="myvimrc">Minun vimrc-tiedostoni</h3>
+
+      <p>Kuten monet ohjelmoijat tekevät, olen myös ladannut <code>vimrc</code>-tiedostoni githubiin. Käytän <code>Pathogenia</code> käsitelläkseni pakkauksia ja bundleja.</p>
+
+      <p>Tässä on blogin loppu. Lorem ipsum dolor sit amet. Pater noster, qui es in caelis. Sanctificetur nomen tuum, adveniat regnum tuum. Fiat voluntas tua, sicut in caelo et in terra. </p>
+
+
+		<h3 id="myvimrc">Testi nähdäkseni kuinka pitkälle blogi menee alaspäin rikkoutumatta</h3>
+		
+		<p>Lorem ipsum dolor sit amet, choro ullamcorper sea te, ea eum harum possim delicatissimi. Vel et populo oportere. Usu id suas illud. Pri ea tibique blandit definiebas, usu congue splendide in. Eu nam wisi denique gubergren. Pri ad vero liberavisse.Mei id praesent adipiscing, mea vide choro solet ad, mundi aliquid at sit. Sed id vocibus ceteros, soluta noluisse placerat sed te, voluptua apeirian quo ne. Eu saepe omnesque conceptam nec, in aeque everti cetero vim. Alii feugait qui cu, qui ut delicata comprehensam. An facete viderer est, iisque eligendi suavitate et has, oportere scriptorem sed et. </p>
+		
+		<p>Lorem ipsum dolor sit amet, choro ullamcorper sea te, ea eum harum possim delicatissimi. Vel et populo oportere. Usu id suas illud. Pri ea tibique blandit definiebas, usu congue splendide in. Eu nam wisi denique gubergren. Pri ad vero liberavisse. Nam atomorum quaerendum ne, has ea error regione. Has dolores facilisi te, pro reprimique philosophia in. Eu vis ludus praesent suavitate. Eam ne agam verterem gloriatur, sed congue invidunt ei.</p>
+		
+		
+    </section>
+  </article>
+</main>
+  
+  
+
+    <script  src="js/js.js"></script>
+
+ <div class="pagination">
+  <a href="#">&laquo;</a>
+  <a href="#">1</a>
+  <a class="active" href="#">2</a>
+  <a href="#">3</a>
+  <a href="#">4</a>
+  <a href="#">5</a>
+  <a href="#">6</a>
+  <a href="#">&raquo;</a>
+</div> 
+
+
+</body>
+
+</html>

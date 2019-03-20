@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en" >
+
+<head>
+  <meta charset="UTF-8">
+  <title>Sodan alku</title>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
+
+
+      <link rel="stylesheet" href="css/tekstit.css">
+
+
+</head>
+
+<body>
+
+  <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,300italic,400italic,700italic|Oxygen:400,700,300' rel='stylesheet' type='text/css'>
+
+<main id="main" role="main">
+  <aside class="sidebar">
+    <section class="sidebar-content">
+      <h2 class="post-title">Sodan alku</h2>
+      <section class="meta">Sodan alku</section>
+      <section class="comments">Kommentit</section>
+      <section class="comments-content">
+        Ei gommenddeja :DD
+      </section>
+    </section>
+  </aside>
+  <aside class="sticky">
+    <h2 class="post-title">Sodan alku <br><br><font color="d30688" size="6">Kasper</font></h2>
+
+  </aside>
+  <article class="post js-post">
+    <section class="post-content" id="js-post-content">
+
+      <h3 id="thetransfer">Ajopuu- ja koskiveneteoria</h3>
+      <p>Ajopuuteoria on Suomen teoria, jonka mukaan Suomi joutui sotaan ajopuun tavoin, vaikka ei itse olisi halunnutkaan. Suomi joutui sotaan yhdessä natsi-Saksan kanssa jatkosodassa Neuvostoliittoa vastaan. </p>
+
+
+      <p>1960-luvulla ajopuuteorian pohjalta syntyi koskiveneteoria. Teorian mukaan Suomen läheiset suhteet natsi-Saksaan ja sitoutuminen johtivat siihen, että hyökkäys Neuvostoliittoon oli tietoista, haluttua ja suunniteltua, mutta kuitenkin sidoksissa olosuhteisiin. Ruotsilta ei saatu apua turvaamaan Suomea Neuvostoliiton painostukselta ja aiheellinen pelko Neuvostoliiton uudesta hyökkäyksestä Suomeen johdatteli Saksan kumppaniksi, koska tarvittiin vahva kumppani. Näin pääteltiin, koska ajateltiin, että joudutaan sotaan kuitenkin Neuvostoliittoa vastaan jossakin vaiheessa. Tämä siksi, koska ei haluttu yksin sotaan. Teoria oli ikään kuin paremmin tutkittu ja pehmennetty teoria ajopuuteoriasta. </p>
+
+      <h3 id="thetransfer">Sotaan valmistaudutaan</h3>
+
+      <p>18. kesäkuuta Suomi aloitti ylimääräisiä harjoituksia ja sodan alkaessa Suomessa oli 21 divisioonaa. Neuvostoliitolla oli Suomen-vastaiselle rintamalle ryhmitettynä kolme armeijaa, joihin kuului 13 jalkaväkidivisioonaa. Neuvostoliiton mukaan suomalais-saksalaisilla joukoilla oli noin 1,5-kertainen ylivoima.</p>
+
+
+      <p>Neuvostoliitto aloitti hyökkäykset 22. kesäkuuta, jolloin se pommitti Suomen laivastoa merellä. Samana päivänä Suomi aloitti Suomenlahden miinoittamisen. Myös Saksa aloitti hyökkäyksen Neuvostoliittoon. Saksalaiskoneita pysähtyi Suomen alueella tankkaamaan pommituslentojen jälkeen. Neuvostoliitto vastasi pommittamalla lentokoneitse ja tykeillä suomalaisia sotilastukikohtia Suomessa. Suomi yritti pidättäytyä mitenkään vastaamasta pommituksiin ja yritti vakuuttaa siten puolueettomuutta uudessa sodassa. Suomen ja Neuvostoliiton välille ei syntynytkään merkittäviä sotatoimia muutaman päivän aikana. </p>
+
+      <p>25. kesäkuuta Neuvostoliitto pommitti Suomea 500 koneella, joista 27 pommitettiin alas Suomen alueella. 15 paikkakuntaa pommitettiin. Tällöin hallitus antoi eduskunnalle tiedonannon, jonka mukaan Suomi on sotatilassa ja eduskunta hyväksyi sen. Samana päivänä Jukka Rangell (pääministeri) totesi radiossa Suomen olevan jälleen sodassa Neuvostoliittoa vastaan.</p>
+
+      <h3 id="thetransfer">Sota alkaa</h3>
+
+      <p>26. kesäkuuta sota julistettiin. Suomen ja Saksan joukot aloittivat maahyökkäyksen. Suomen armeija aloitti suurhyökkäyksen Laatokan Karjalassa Korpiselän suuntaan 10. heinäkuuta. Hyökkäyksen kärki kohtasi Laatokan rannat muutamassa päivässä ja elokuun loppuun mennessä oli talvisodan alueet kohdattu. </p>
+
+
+      <p>Seuraavina päivinä tapahtui seuraavia: Mannerheim päätti hyökätä Laatokan Karjalassa, hyökkäys-suunnitelma vahvistettiin, Suomen yritys vallata Enso ei onnistunut ja Saksa hyökkäsi Petsamosta. </p>
+
+      <p>Saksan joukot valtasi Sallan heinäkuun alussa ja sen jälkeen ne lähtivät kohti Repolaa. Hitlerin mukaan Moskova ja Leningrad tulisi hävittää maan tasalle ettei sitä tarvitse ruokkia talven yli. Ja niin muutaman päivän päästä Saksa aloitti hyökkäyksen Leningradiin. </p>
+
+
+
+
+		<p>12.7 Neuvostoliitto ja Iso-Britannia solmivat sopimuksen, jonka mukaan maat antavat toisilleen apua taistelussa Hitleriä vastaan ja olemaan solmimatta rauhaa ilman yhteistä sopimusta. Seuraavana päivänä Puna-armeija teki ensimmäiset maahyökkäykset itärintamalla. Näin sota alkoi.  </p>
+
+
+
+
+    </section>
+  </article>
+</main>
+
+
+
+    <script  src="js/js.js"></script>
+
+ <div class="pagination">
+  <a href="#">&laquo;</a>
+  <a class="active" href="#">1</a>
+  <a href="#">&raquo;</a>
+</div>
+
+
+</body>
+
+</html>
